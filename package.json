@@ -16,7 +16,5 @@
     "url": "https://github.com/AakSin/it-club/issues"
   },
   "homepage": "https://github.com/AakSin/it-club#readme",
-  "dependencies": {
-    "tailwindcss": "^1.0.4"
-  }
+  "dependencies": {}
 }
