@@ -1,4 +1,6 @@
-
+:root {
+   --fsize:30px; 
+  }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400&display=swap');
 /* =============================================================================
@@ -37,11 +39,9 @@
    
    html{
      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+     text-align: center;
    }
    
-   body{
-     font:normal 75% Arial, Helvetica, sans-serif;
-   }
    
    canvas{
      display:block;
@@ -55,30 +55,40 @@
    #particles-js{
      width: 100%;
      height: 100%;
-     background-color: #000000;
+     background-color: #1d1c22;
      background-image: url('');
      background-size: cover;
      background-position: 50% 50%;
      background-repeat: no-repeat;
    }
-   .container{
-       height: 100vh;
-       width: 100vw;
-       display: flex;
-       align-items: center;
-       justify-content: center;
-       position: absolute;
-   }
-  h1{
-    color:rgba(255, 255, 255, 0.788);
+  
+h1,h2{
+    color:rgba(255, 255, 255, 0.651);
     font-family: 'Roboto Condensed'; 
-    letter-spacing: 20px;
+    letter-spacing: 30px;
     text-transform: uppercase;
-    font-size:7em;
+    font-size:calc(var(--fsize)*4);
+    font-weight: 300;
+    position: absolute;
+    top: 40%;
+    margin-left:100px;
+    
+}
+h2{
+    margin-top:calc(var(--fsize)*5.5);
+    font-size:calc(var(--fsize)*2);
+    text-align: center; 
 }
 
-@media only screen and (max-width: 600px) {
-    h1 {
-      font-size:4em;
-    }
+@media only screen and (max-width: 1300px) {
+    :root {
+        --fsize:20px; 
+       }
   }
+  
+@media only screen and (max-width: 900px) {
+    :root {
+        --fsize:15px; 
+       }
+  }
+  
