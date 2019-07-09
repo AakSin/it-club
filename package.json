@@ -16,7 +16,5 @@
     "url": "https://github.com/AakSin/it-club/issues"
   },
   "homepage": "https://github.com/AakSin/it-club#readme",
-  "dependencies": {
-    "particle.js": "^1.0.7"
-  }
+  "dependencies": {}
 }
