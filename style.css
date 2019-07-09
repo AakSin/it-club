@@ -16,6 +16,8 @@ body{
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
+    height: 100%;
+    width:100%;
     }
 h1,h2{
     color:rgba(255, 255, 255, 0.788);
