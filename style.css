@@ -1,8 +1,7 @@
 :root {
    --fsize:30px; 
   }
-@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400&display=swap');
+
 /* =============================================================================
    HTML5 CSS Reset Minified - Eric Meyer
    ========================================================================== */
@@ -71,7 +70,6 @@ h1,h2{
     position: absolute;
     top: 40%;
     margin-left:100px;
-    
 }
 h2{
     font-family: 'Roboto Condensed'; 
