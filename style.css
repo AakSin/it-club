@@ -1,7 +1,7 @@
 :root {
    --fsize:30px; 
   }
-
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400&display=swap');
 /* =============================================================================
    HTML5 CSS Reset Minified - Eric Meyer
@@ -55,7 +55,7 @@
    #particles-js{
      width: 100%;
      height: 100%;
-     background-color: #1d1c22;
+     background-color: #000000fb;
      background-image: url('');
      background-size: cover;
      background-position: 50% 50%;
@@ -63,10 +63,9 @@
    }
   
 h1,h2{
-    color:rgba(255, 255, 255, 0.651);
-    font-family: 'Roboto Condensed'; 
-    letter-spacing: 30px;
-    text-transform: uppercase;
+    color:rgba(255, 255, 255, 0.705);
+    font-family: 'DM Serif Display'; 
+    letter-spacing: 20px;
     font-size:calc(var(--fsize)*4);
     font-weight: 300;
     position: absolute;
@@ -75,20 +74,52 @@ h1,h2{
     
 }
 h2{
+    font-family: 'Roboto Condensed'; 
+    text-transform: uppercase;
     margin-top:calc(var(--fsize)*5.5);
     font-size:calc(var(--fsize)*2);
     text-align: center; 
+    letter-spacing: 15px;
+    line-height: 30px;
 }
 
 @media only screen and (max-width: 1300px) {
     :root {
-        --fsize:20px; 
+        --fsize:25px; 
        }
   }
   
 @media only screen and (max-width: 900px) {
     :root {
-        --fsize:15px; 
+        --fsize:20px; 
        }
+    h1{
+        margin-left:40%;
+    }
+    h2{
+        margin-left:20%;
+    }
   }
   
+  @media only screen and (max-width: 650px) {
+    :root {
+        --fsize:20px; 
+       }
+    h1{
+        margin-left:35%;
+    }
+    h2{
+        margin-left:8%;
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    :root {
+        --fsize:10px; 
+       }
+    h1{
+        margin-left:35%;
+    }
+    h2{
+        margin-left:8%;
+    }
+  }
