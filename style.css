@@ -82,46 +82,6 @@ h2{
     line-height: 30px;
 }
 
-@media only screen and (max-width: 1300px) {
-    :root {
-        --fsize:25px; 
-       }
-  }
-  
-@media only screen and (max-width: 900px) {
-    :root {
-        --fsize:20px; 
-       }
-    h1{
-        margin-left:40%;
-    }
-    h2{
-        margin-left:20%;
-    }
-  }
-  
-  @media only screen and (max-width: 650px) {
-    :root {
-        --fsize:20px; 
-       }
-    h1{
-        margin-left:35%;
-    }
-    h2{
-        margin-left:8%;
-    }
-  }
-  @media only screen and (max-width: 400px) {
-    :root {
-        --fsize:10px; 
-       }
-    h1{
-        margin-left:35%;
-    }
-    h2{
-        margin-left:8%;
-    }
-  }
 
 /* loader */
 .loader{
@@ -213,4 +173,49 @@ h2{
   50% {transform: translateX(0px);}
   100% {transform: translateX(-40px);}
 }
-  
+
+.fa-caret-square-left{
+  color:white;
+  font-size:calc(var(--fsize)*2);
+}
+
+@media only screen and (max-width: 1300px) {
+  :root {
+      --fsize:25px; 
+     }
+}
+
+@media only screen and (max-width: 900px) {
+  :root {
+      --fsize:20px; 
+     }
+  h1{
+      margin-left:40%;
+  }
+  h2{
+      margin-left:20%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  :root {
+      --fsize:20px; 
+     }
+  h1{
+      margin-left:35%;
+  }
+  h2{
+      margin-left:8%;
+  }
+}
+@media only screen and (max-width: 400px) {
+  :root {
+      --fsize:10px; 
+     }
+  h1{
+      margin-left:35%;
+  }
+  h2{
+      margin-left:8%;
+  }
+}

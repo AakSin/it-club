@@ -10,11 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/AakSin/it-club.git"
   },
-  "author": "",
+  "author": "aakarsh singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AakSin/it-club/issues"
   },
   "homepage": "https://github.com/AakSin/it-club#readme",
-  "dependencies": {}
+  "dependencies": {
+    "fontawesome": "^5.6.3"
+  }
 }
