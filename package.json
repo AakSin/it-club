@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AakSin/it-club#readme",
   "dependencies": {
-    "fontawesome": "^5.6.3"
+    "font-awesome": "^4.7.0"
   }
 }
