@@ -40,7 +40,9 @@
      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
      text-align: center;
    }
-   
+   body i {
+    font-family:'FontAwesome'!important;
+    }
    
    canvas{
      display:block;
