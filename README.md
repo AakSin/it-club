@@ -1,2 +1,2 @@
-# IT-Club
-Site for IT magazine and club
+# Turing
+Update using Vue
