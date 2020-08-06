@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex align-items-center px-3">
+  <div class="d-flex flex-column justify-content-center px-5 text-center">
     
    
   
@@ -129,8 +129,9 @@
           transform="translate(14.26 335.31) rotate(-68.92)"
         />
       </g>
+      
     </svg>
-
+  <h2 class="display-4" >Lotus Valley Noida's IT Event</h2>
   </div>
 </template>
 <script>
@@ -227,10 +228,13 @@ export default {
   }
 }
 div{
-  height:90vh;
+  height:93vh;
 }
 svg{
-  height:100%;
+  width:100%;
+}
+.display-4{
+  font-size:3rem;
 }
 
 </style>
