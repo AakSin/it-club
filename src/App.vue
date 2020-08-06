@@ -54,11 +54,6 @@ export default {
 </script>
 
 <style lang="scss">
-$xs: "only screen and (max-width : 575px)";
-$sm: "only screen and (min-width : 576px)";
-$md: "only screen and (min-width : 768px)";
-$lg: "only screen and (min-width : 992px)";
-$xl: "only screen and (min-width : 1200px)";
 
 html {
     min-height: 100vh;

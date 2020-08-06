@@ -167,7 +167,7 @@ export default {
 .cls-1 {
   font-size: 36.86px;
   fill: #3f220e;
-  font-family: Gotham-Bold, Gotham;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   letter-spacing: 0.05em;
 }

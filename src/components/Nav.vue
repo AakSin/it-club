@@ -13,7 +13,6 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-$md: "only screen and (min-width : 768px)";
   a{
     color:black;
     font-size:2rem;
