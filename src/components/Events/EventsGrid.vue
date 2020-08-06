@@ -1,13 +1,32 @@
 <template>
-  <div>
-    <Events></Events>
+  <div class="row">
+       <Event
+        v-for="event in events"
+        v-bind:key="event.name"
+        v-bind:event="event"
+        />
   </div>
 </template>
 <script>
-import Events from './Event.vue'
+import Event from './Event.vue'
 export default {
   name:'EventsGrid',
-  components:{Events},
+  components:{Event},
+  data(){
+    return{
+      events:[{
+      name:"Web D",
+      image:"#",
+      desc:"lorem ipsum"
+},
+{
+      name:"Coding",
+      image:"#",
+      desc:"lorem ipsum"
+}
+]
+    }
+  }
 
 }
 </script>

@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <Nav></Nav>
     <div id="particle-container">
       <div class="particle"></div>
       <div class="particle"></div>
@@ -38,6 +37,8 @@
       <div class="particle"></div>
       <div class="particle"></div>
     </div>
+    <Nav></Nav>
+    
     <router-view></router-view>
   </div>
 </template>
@@ -56,6 +57,7 @@ export default {
 <style lang="scss">
 
 html {
+    background:$bcolor;
     min-height: 100vh;
     @media #{$xs} { font-size: 8px; }
     @media #{$sm} { body { font-size: 12px; } }
@@ -84,7 +86,12 @@ html {
 
   .particle:nth-child(#{$i}) {
     animation: particle-animation-#{$i} 30s infinite;
-    $size: random(2) + vw;
+    $size: random(10) + px;
+    @media #{$md}{
+      $nsize:random(20) + px;
+      height: $nsize;
+    width: $nsize;
+    }
     opacity: random(100) / 100;
     height: $size;
     width: $size;
@@ -94,7 +101,11 @@ html {
       (random(90) * 1vh),
       (random(100) * 1px)
     );
-    background: hsl(random(360), 70%, 50%);
+    background: hsl(random(360), 80%, 60%);
   }
+}
+#app{
+  background:$bcolor;
+  color:$tcolor;
 }
 </style>

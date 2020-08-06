@@ -126,7 +126,7 @@
         />
       </g>
     </svg>
-    <h2 class="display-4">Lotus Valley Noida's IT Event</h2>
+    <h2 class="display-4 my-4">Lotus Valley Noida's IT Event</h2>
   </div>
 </template>
 <script>
@@ -162,7 +162,7 @@ export default {
 
           .cls-1 {
             font-size: 36.86px;
-            fill: #3f220e;
+            fill: $tcolor;
             font-family: Montserrat-Bold, Montserrat;
             font-weight: 700;
             letter-spacing: 0.05em;
@@ -231,5 +231,6 @@ svg {
 }
 .display-4 {
   font-size: 3rem;
+  font-family:'Raleway',sans-serif;
 }
 </style>

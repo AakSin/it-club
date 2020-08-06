@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import App from './App.vue';
 import VueRouter from 'vue-router';
+import Vuex from 'vuex';
 Vue.config.productionTip = false;
 
 // Importing Components
@@ -9,6 +10,7 @@ import AboutUs from './components/AboutUs/AboutUs.vue';
 import Events from './components/Events/EventsGrid.vue';
 
 Vue.use(VueRouter);
+Vue.use(Vuex);
 const router = new VueRouter({
   mode:'history',
   routes:[
