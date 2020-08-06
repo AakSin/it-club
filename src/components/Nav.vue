@@ -3,7 +3,7 @@
     <nav class="d-flex justify-content-center align-items-center">
     <router-link class="px-4" to="/">Home</router-link>
     <router-link class="px-4" to="/aboutus">About Us</router-link>
-    <router-link class="px-4" to="/events">Event</router-link>
+    <router-link class="px-4" to="/events">Events</router-link>
     </nav>
   </div>
 </template>

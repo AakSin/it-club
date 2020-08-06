@@ -4,8 +4,11 @@
   </div>
 </template>
 <script>
+
 export default {
-  name:'Events'
+  name:'Event',
+ 
+
 }
 </script>
 <style lang="scss" scoped>

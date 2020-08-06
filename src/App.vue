@@ -63,7 +63,9 @@ html {
     @media #{$lg} { body { font-size: 18px; } }
     @media #{$xl} { body { font-size: 20px; } }
 }
-
+#particle-container{
+  overflow:hidden;
+}
 .particle {
   position: absolute;
   border-radius: 50%;

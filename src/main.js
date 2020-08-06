@@ -6,7 +6,7 @@ Vue.config.productionTip = false;
 // Importing Components
 import Home from './components/Home/Home.vue';
 import AboutUs from './components/AboutUs/AboutUs.vue';
-import Events from './components/Events/Events.vue';
+import Events from './components/Events/EventsGrid.vue';
 
 Vue.use(VueRouter);
 const router = new VueRouter({
