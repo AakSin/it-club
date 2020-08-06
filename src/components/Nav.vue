@@ -27,7 +27,7 @@ export default {
   }
 a:hover, .router-link-active{
   text-decoration:none;
-  border-bottom:1px black solid;
+  border-bottom:1px $tcolor solid;
 }
 nav{
   width:100vw;

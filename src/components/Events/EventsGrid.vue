@@ -16,7 +16,7 @@ export default {
     return{
       events:[{
       name:"Web D",
-      image:"#",
+      image:"@/svgs/webd.svg",
       desc:"lorem ipsum"
 },
 {

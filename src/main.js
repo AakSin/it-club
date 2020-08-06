@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import App from './App.vue';
 import VueRouter from 'vue-router';
-import Vuex from 'vuex';
+import store from './store/';
 Vue.config.productionTip = false;
 
 // Importing Components
@@ -10,7 +10,7 @@ import AboutUs from './components/AboutUs/AboutUs.vue';
 import Events from './components/Events/EventsGrid.vue';
 
 Vue.use(VueRouter);
-Vue.use(Vuex);
+
 const router = new VueRouter({
   mode:'history',
   routes:[
@@ -21,6 +21,7 @@ const router = new VueRouter({
 })
 
 new Vue({
+  store,
   router,
   render: h => h(App),
 }).$mount('#app')
