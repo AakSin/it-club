@@ -90,13 +90,14 @@ font-size:2rem;
   }
 }
 .card{
-  background-color:rgba(0,0,0,0);
+  background-color:rgba(255, 255, 255, 0.39);
   margin-bottom: 2vh;
   transition:0.5s;
    
 }
 .card:hover{
-  border:1px rgba(34, 78, 221, 0.582) solid;
+  box-shadow: 5px 5px 10px #aaaaaa;
+  transform:translate(1.05);
   transition:0.5s;
 }
 .fa{

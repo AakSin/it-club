@@ -53,7 +53,7 @@ font-size:2rem;
    
 }
 .card:hover{
-  background-color:rgba(197, 197, 197, 0.3);
+  box-shadow: 3px 3px 20px #aaaaaa;
   transform:scale(1.05);
   transition:0.5s;
   cursor:pointer;
