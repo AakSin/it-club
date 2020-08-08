@@ -36,10 +36,25 @@
       <div class="particle"></div>
       <div class="particle"></div>
       <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
     </div>
     <Nav></Nav>
     
-    <router-view class="py-4"></router-view>
+    <div class="py-4 rter  d-flex flex-column justify-content-center"><router-view ></router-view></div>
   </div>
 </template>
 
@@ -76,12 +91,12 @@ html {
   border-radius: 50%;
 }
 
-@for $i from 1 through 35 {
+@for $i from 1 through 50 {
   @keyframes particle-animation-#{$i} {
     100% {
       transform: translate3d(
-        (random(90) * 1vw),
-        (random(90) * 1vh),
+        (random(95) * 1vw),
+        (random(95) * 1vh),
         (random(100) * 1px)
       );
     }
@@ -110,5 +125,8 @@ html {
 #app{
   background:$bcolor;
   color:$tcolor;
+}
+.rter{
+  min-height:93vh;
 }
 </style>

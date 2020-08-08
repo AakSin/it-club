@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex flex-column justify-content-center px-5 text-center">
+  <div class="px-5 text-center">
     <svg
       id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.8 82.86"
     >
@@ -223,9 +223,7 @@ export default {
     transform: rotateZ(10deg);
   }
 }
-div {
-  height: 93vh;
-}
+
 svg {
   width: 100%;
 }

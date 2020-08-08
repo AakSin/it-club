@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="c_container">
     <div class="row d-flex align-items-center">
       <Event
         v-for="event in events"
@@ -18,40 +18,40 @@ export default {
     return {
       events: [
         {
-          name: "Web D",
-          image: "@/svgs/webd.svg",
+          name: "Web Development",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },
         {
           name: "Coding",
-          image: "#",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },  {
           name: "Web D",
-          image: "@/svgs/webd.svg",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },
         {
           name: "Coding",
-          image: "#",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },  {
           name: "Web D",
-          image: "@/svgs/webd.svg",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },
         {
           name: "Coding",
-          image: "#",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },  {
           name: "Web D",
-          image: "@/svgs/webd.svg",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         },
         {
           name: "Coding",
-          image: "#",
+          image: "./static/svgs/webd.svg",
           desc: "lorem ipsum",
         }
       ],
@@ -60,5 +60,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-
+.c_container{
+  padding: 0 5vw;
+}
 </style>
