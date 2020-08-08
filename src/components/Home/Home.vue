@@ -126,7 +126,7 @@
         />
       </g>
     </svg>
-    <h2 class="display-4 my-4">Lotus Valley Noida's IT Event</h2>
+    <h2 class="display-4 my-4">Lotus Valley International School Noida's IT Event</h2>
   </div>
 </template>
 <script>
@@ -232,5 +232,10 @@ svg {
 .display-4 {
   font-size: 3rem;
   font-family:'Raleway',sans-serif;
+}
+.d-flex{
+  @media #{$lg}{
+    padding:5vw;
+  }
 }
 </style>

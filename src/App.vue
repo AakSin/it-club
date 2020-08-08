@@ -39,7 +39,7 @@
     </div>
     <Nav></Nav>
     
-    <router-view></router-view>
+    <router-view class="py-4"></router-view>
   </div>
 </template>
 
@@ -64,6 +64,9 @@ html {
     @media #{$md} { body { font-size: 16px; } }
     @media #{$lg} { body { font-size: 18px; } }
     @media #{$xl} { body { font-size: 20px; } }
+}
+#app{
+  min-height:100vh;
 }
 #particle-container{
   overflow:hidden;
