@@ -74,6 +74,7 @@ export default {
 html {
     background:$bcolor;
     min-height: 100vh;
+    overflow-x:hidden;
     @media #{$xs} { font-size: 8px; }
     @media #{$sm} { body { font-size: 12px; } }
     @media #{$md} { body { font-size: 16px; } }
