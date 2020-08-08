@@ -47,7 +47,8 @@ font-size:2rem;
   }
 }
 .card{
-  background-color:rgba(0,0,0,0);
+
+  background-color:rgba(0, 0, 0, 0.39);
   margin-bottom: 2vh;
   transition:0.5s;
   border:0.5px rgba(255, 255, 255, 0.103) solid;
@@ -55,6 +56,7 @@ font-size:2rem;
 }
 .card:hover{
   box-shadow: 3px 3px 20px #dbdbdb2a;
+  background-color:rgb(26, 26, 26);
   transform:scale(1.05);
   transition:0.5s;
   cursor:pointer;

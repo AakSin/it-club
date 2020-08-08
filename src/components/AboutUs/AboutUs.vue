@@ -97,6 +97,7 @@ font-size:2rem;
 }
 .card:hover{
   box-shadow: 3px 3px 20px #dbdbdb2a;
+  background-color:rgb(26, 26, 26);
   transform:translate(1.05);
   transition:0.5s;
 }
