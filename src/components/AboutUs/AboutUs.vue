@@ -90,13 +90,13 @@ font-size:2rem;
   }
 }
 .card{
-  background-color:rgba(255, 255, 255, 0.39);
+  background-color:rgba(0, 0, 0, 0.39);
   margin-bottom: 2vh;
   transition:0.5s;
    
 }
 .card:hover{
-  box-shadow: 5px 5px 10px #aaaaaa;
+  box-shadow: 3px 3px 20px #dbdbdb2a;
   transform:translate(1.05);
   transition:0.5s;
 }

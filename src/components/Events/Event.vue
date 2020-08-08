@@ -50,17 +50,18 @@ font-size:2rem;
   background-color:rgba(0,0,0,0);
   margin-bottom: 2vh;
   transition:0.5s;
+  border:0.5px rgba(255, 255, 255, 0.103) solid;
    
 }
 .card:hover{
-  box-shadow: 3px 3px 20px #aaaaaa;
+  box-shadow: 3px 3px 20px #dbdbdb2a;
   transform:scale(1.05);
   transition:0.5s;
   cursor:pointer;
 }
 .card-body{
   h1{
-    border-bottom:0.5px rgba(0, 0, 0, 0.103) solid;
+    border-bottom:0.5px rgba(255, 255, 255, 0.103) solid;
   }
 }
 </style>
