@@ -1,5 +1,5 @@
 <template>
-<div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2">
+<div class="col-12 col-md-6 col-lg-3 p-4 p-md-2">
    <div class="card text-center">
       <div v-if="readMore">
       <img class="card-img-top p-5 p-md-3" :src="event.image" alt="Card image cap" />
