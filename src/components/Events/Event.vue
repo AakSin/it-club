@@ -9,8 +9,8 @@
       </div>
       </div>
       <div class="p-2" v-else>
-        <button class="btn btn-danger" @click="toggleRead()"><i class="fa fa-times"></i></button>
-        <p>{{event.desc}}</p>
+        <button class="btn btn-danger m-2" @click="toggleRead()"><i class="fa fa-times"></i></button>
+        <p class="lead px-4">{{event.desc}}</p>
       </div>
     </div>
     </div>
