@@ -54,7 +54,7 @@
     </div>
     <Nav></Nav>
     
-    <div class="py-4 rter  d-flex flex-column justify-content-center"><router-view ></router-view></div>
+    <div class="rter  d-flex flex-column justify-content-center"><router-view ></router-view></div>
   </div>
 </template>
 
@@ -128,6 +128,6 @@ html {
   color:$tcolor;
 }
 .rter{
-  min-height:93vh;
+  min-height:90vh;
 }
 </style>

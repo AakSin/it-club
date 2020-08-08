@@ -2,14 +2,14 @@
 <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2">
    <div class="card text-center">
       <div v-if="readMore">
-      <img class="card-img-top px-5 px-md-3" :src="event.image" alt="Card image cap" />
+      <img class="card-img-top p-5 p-md-3" :src="event.image" alt="Card image cap" />
       <div class="card-body">
-        <h1 class="card-title">{{event.name}}</h1>
+        <h1 class="card-title py-2">{{event.name}}</h1>
         <button class="btn btn-primary" @click="toggleRead()">Read More</button>
       </div>
       </div>
       <div class="p-2" v-else>
-        <button class="btn btn-danger" @click="toggleRead()">X</button>
+        <button class="btn btn-danger" @click="toggleRead()"><i class="fa fa-times"></i></button>
         <p>{{event.desc}}</p>
       </div>
     </div>
@@ -57,5 +57,10 @@ font-size:2rem;
   transform:scale(1.05);
   transition:0.5s;
   cursor:pointer;
+}
+.card-body{
+  h1{
+    border-bottom:0.5px rgba(0, 0, 0, 0.103) solid;
+  }
 }
 </style>

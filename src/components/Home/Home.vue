@@ -231,9 +231,5 @@ svg {
   font-size: 3rem;
   font-family:'Raleway',sans-serif;
 }
-.d-flex{
-  @media #{$lg}{
-    padding:5vw;
-  }
-}
+
 </style>

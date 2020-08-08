@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="d-flex justify-content-center align-items-center">
+    <nav class="d-flex my-3 justify-content-center align-items-center">
     <router-link class="mx-4 px-2" to="/" @click="changeTheme()" exact>Home</router-link>
     <router-link class="mx-4 px-2" to="/aboutus">About Us</router-link>
     <router-link class="mx-4 px-2" to="/events">Events</router-link>
