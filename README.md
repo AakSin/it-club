@@ -1,4 +1,4 @@
-# it-club
+# LVIS Noida Turing
 
 ## Project setup
 ```
