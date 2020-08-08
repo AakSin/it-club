@@ -81,6 +81,25 @@ html {
     @media #{$lg} { body { font-size: 18px; } }
     @media #{$xl} { body { font-size: 20px; } }
 }
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #646464; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #555;  
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(22, 22, 22); 
+}
 #app{
   min-height:100vh;
 }
