@@ -56,5 +56,6 @@ font-size:2rem;
   background-color:rgba(197, 197, 197, 0.3);
   transform:scale(1.05);
   transition:0.5s;
+  cursor:pointer;
 }
 </style>
