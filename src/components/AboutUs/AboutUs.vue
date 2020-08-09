@@ -1,10 +1,14 @@
 <template>
 <div class="c_container">
-  <h1 class="display-4 text-center">Why was this club started?</h1>
+  
+  <h1 class="display-4 text-center">About the Event</h1>
   <hr class="my-4">
   <p class="lead px-5 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum imperdiet. Maecenas vel leo a elit ullamcorper gravida.
 
 Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus ex. Pellentesque sit amet mi maximus, pharetra augue eu, sollicitudin neque. Cras imperdiet vehicula vestibulum. Mauris in eleifend arcu. Donec a porta justo. Sed maximus bibendum lacus in lacinia. Donec ante diam, sagittis id eleifend ac, blandit at magna. In malesuada nulla at fermentum pretium. Duis non metus magna.</p>
+
+<h1 class="display-4 text-center">Meet the team</h1>
+<hr class="my-4">
 <div class="row d-flex align-items-center">
 <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2">
    <div class="card text-center">
@@ -74,7 +78,7 @@ export default {
 h1,a{
   font-size:3rem;
   @media #{$md}{
-    font-size:1.5rem;
+    font-size:2rem;
   }
 }
 h2{
@@ -109,6 +113,6 @@ font-size:2rem;
   }
 }
 hr{
-  background-color:$tcolor;
+  background-color:rgba(255,255,255,0.3);
 }
 </style>
