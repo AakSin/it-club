@@ -71,7 +71,7 @@ export default {
 
 <style lang="scss">
 
-html {
+html,body {
     background:$bcolor;
     min-height: 100vh;
     overflow-x:hidden;

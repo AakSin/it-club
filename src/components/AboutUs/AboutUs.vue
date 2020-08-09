@@ -11,7 +11,20 @@ Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus
       
       <img class="card-img-top " src="../../../public/static/imgs/no-img.png" alt="Card image cap" />
       <div class="card-body">
-        <h1 class="card-title">Student 1</h1>
+        <h1 class="card-title">Aakarsh Singh</h1>
+        <h2 >Founder </h2>
+        <p>Info</p>
+        <a href="mailto:aakarsh@lvisturing.tech" class="fa fa-envelope"></a>
+  <a href="https://www.instagram.com/aaksins/" class="fa fa-instagram" target="_blank"></a>
+      </div>
+    </div>
+    </div>
+    <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2">
+   <div class="card text-center">
+      
+      <img class="card-img-top " src="../../../public/static/imgs/no-img.png" alt="Card image cap" />
+      <div class="card-body">
+        <h1 class="card-title">Sayak Ray</h1>
         <h2 >Founder </h2>
         <p>Info</p>
         <a href="#" class="fa fa-envelope"></a>
@@ -24,7 +37,7 @@ Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus
       
       <img class="card-img-top " src="../../../public/static/imgs/no-img.png" alt="Card image cap" />
       <div class="card-body">
-        <h1 class="card-title">Student 2</h1>
+        <h1 class="card-title">Hardit Singh</h1>
         <h2 >Founder </h2>
         <p>Info</p>
         <a href="#" class="fa fa-envelope"></a>
@@ -37,24 +50,11 @@ Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus
       
       <img class="card-img-top " src="../../../public/static/imgs/no-img.png" alt="Card image cap" />
       <div class="card-body">
-        <h1 class="card-title">Student 3</h1>
+        <h1 class="card-title">Ishan Maheshwari</h1>
         <h2 >Founder </h2>
         <p>Info</p>
-        <a href="#" class="fa fa-envelope"></a>
-  <a href="#" class="fa fa-instagram"></a>
-      </div>
-    </div>
-    </div>
-    <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2">
-   <div class="card text-center">
-      
-      <img class="card-img-top " src="../../../public/static/imgs/no-img.png" alt="Card image cap" />
-      <div class="card-body">
-        <h1 class="card-title">Student 4</h1>
-        <h2 >Founder </h2>
-        <p>Info</p>
-        <a href="#" class="fa fa-envelope"></a>
-  <a href="#" class="fa fa-instagram"></a>
+        <a href="mailto:ishan.arw@gmail.com" class="fa fa-envelope"></a>
+  <a href="https://www.instagram.com/ishan.pma" class="fa fa-instagram" target="_blank"></a>
       </div>
     </div>
     </div>
@@ -108,5 +108,7 @@ font-size:2rem;
     margin:0vw 1vw;
   }
 }
-
+hr{
+  background-color:$tcolor;
+}
 </style>
