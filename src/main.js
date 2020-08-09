@@ -5,11 +5,10 @@ import './plugins/bootstrap-vue'
 import App from './App.vue';
 import VueRouter from 'vue-router';
 import store from './store/';
-import VueAnimate from 'vue-animate-scroll'
- 
-Vue.use(VueAnimate)
-
 Vue.config.productionTip = false;
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+
 
 // Importing Components
 import Home from './components/Home/Home.vue';
@@ -33,6 +32,12 @@ const router = new VueRouter({
 })
 
 new Vue({
+  created () {
+    AOS.init()
+    AOS.init({
+      mirror: true
+    })
+  },
   store,
   router,
   render: h => h(App),

@@ -1,5 +1,5 @@
 <template>
-<div class="col-12 col-md-6 col-lg-3 p-4 p-md-2" v-animate.repeat="'slide-right'">
+<div class="col-12 col-md-6 col-lg-3 p-4 p-md-2"  data-aos="fade-right" data-aos-duration="500" >
    <div class="card text-center" >
       <div v-if="readMore">
       <img class="card-img-top p-5 p-md-3" :src="event.image" alt="Card image cap" />
@@ -66,18 +66,5 @@ font-size:2rem;
     border-bottom:0.5px rgba(255, 255, 255, 0.103) solid;
   }
 }
-.animate {
-  transition-duration: 0.5s;
-  transition-timing-function: ease-in;
-}
- 
-.slide-right {
-  transform: translateX(-200px);
-  opacity:0;
-}
- 
-.slide-right.animate-active {
-  transform: translateX(0px);
-  opacity:1;
-}
+
 </style>
