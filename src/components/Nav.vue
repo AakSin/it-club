@@ -53,13 +53,16 @@ a:hover, .router-link-active{
 .bg-info{
   width:100vw;
   
-  background-color: $bcolor !important;
+  background-color: rgba(0,0,0,0) !important;
 }
 .navbar{
   padding:0;
 }
 .navbar-collapse{
-  background-color:$bcolor;
+  background-color:rgba(0,0,0,0);
+}
+button:focus{
+  outline:none;
 }
 .navbar-toggler{
   border:0;

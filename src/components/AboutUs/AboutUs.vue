@@ -1,7 +1,7 @@
 <template>
 <div class="c_container">
   
-  <h1 class="display-4 text-center">About the Event</h1>
+  <h1 class="display-4 text-center">The fx Club</h1>
   <hr class="my-4">
   <p class="lead px-5 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum imperdiet. Maecenas vel leo a elit ullamcorper gravida.
 
@@ -31,8 +31,7 @@ Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus
         <h1 class="card-title">Sayak Ray</h1>
         <h2 >Founder </h2>
         <p>Info</p>
-        <a href="#" class="fa fa-envelope"></a>
-  <a href="#" class="fa fa-instagram"></a>
+        <a href="mailto:sr.official3210@gmail.com" class="fa fa-envelope"></a>
       </div>
     </div>
     </div>
@@ -44,8 +43,9 @@ Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus
         <h1 class="card-title">Hardit Singh</h1>
         <h2 >Founder </h2>
         <p>Info</p>
-        <a href="#" class="fa fa-envelope"></a>
-  <a href="#" class="fa fa-instagram"></a>
+        <a href="mailto:hardits925@gmail.com" class="fa fa-envelope"></a>
+  <a href="https://www.instagram.com/hardy_1273/" class="fa fa-instagram" target="_blank"></a>
+  <a href="tel:8076252192" class="fa fa-phone" ></a>
       </div>
     </div>
     </div>
@@ -59,6 +59,7 @@ Etiam turpis tellus, dapibus a quam quis, molestie vulputate sem. Ut ut faucibus
         <p>Info</p>
         <a href="mailto:ishan.arw@gmail.com" class="fa fa-envelope"></a>
   <a href="https://www.instagram.com/ishan.pma" class="fa fa-instagram" target="_blank"></a>
+  <a href="tel:8130314810" class="fa fa-phone" ></a>
       </div>
     </div>
     </div>
@@ -78,7 +79,7 @@ export default {
 h1,a{
   font-size:3rem;
   @media #{$md}{
-    font-size:2rem;
+    font-size:1.5rem;
   }
 }
 h2{
@@ -90,7 +91,7 @@ h2{
 .btn,p{
 font-size:2rem;
   @media #{$md}{
-    font-size:1rem;
+    font-size:1.25rem;
   }
 }
 .card{

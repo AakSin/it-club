@@ -75,11 +75,11 @@ html,body {
     background:$bcolor;
     min-height: 100vh;
     overflow-x:hidden;
-    @media #{$xs} { font-size: 8px; }
-    @media #{$sm} { body { font-size: 12px; } }
-    @media #{$md} { body { font-size: 16px; } }
-    @media #{$lg} { body { font-size: 18px; } }
-    @media #{$xl} { body { font-size: 20px; } }
+    // @media #{$xs} { font-size: 10px; }
+    @media #{$sm} { font-size: 10px; }
+    @media #{$md} { font-size: 16px; }
+    @media #{$lg} { font-size: 18px; }
+    @media #{$xl} { font-size: 20px; }
 }
 /* width */
 ::-webkit-scrollbar {
@@ -102,6 +102,7 @@ html,body {
 }
 #app{
   min-height:100vh;
+  width:100vw;
 }
 #particle-container{
   overflow:hidden;

@@ -1,7 +1,9 @@
 <template>
+
   <div class="px-5 text-center">
+    
     <svg
-      id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.8 82.86"
+      id="Layer_1" class="px-5" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.8 82.86"
     >
       <defs>
         
@@ -127,6 +129,8 @@
       </g>
     </svg>
     <h2 class="display-4 my-4">Lotus Valley International School Noida's IT Event</h2>
+    <b-button variant="primary py-2 px-5 mx-3 mb-5" href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Brochure</b-button>
+    <b-button variant="success py-2 px-5 mx-3 mb-5" href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Invite</b-button>
   </div>
 </template>
 <script>
@@ -226,10 +230,23 @@ export default {
 
 svg {
   width: 100%;
+  @media #{$xl}{
+    transform:scale(0.9);
+  }
 }
 .display-4 {
   font-size: 3rem;
+  @media #{$lg}{
+    font-size:2.5rem;
+  }
   font-family:'Raleway',sans-serif;
 }
+.btn{
+  font-size:15px;
+  @media #{$md}{
+    font-size:20px;
+  }
+}
+
 
 </style>
