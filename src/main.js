@@ -12,6 +12,8 @@ import Home from './components/Home/Home.vue';
 import AboutUs from './components/AboutUs/AboutUs.vue';
 import Events from './components/Events/EventsGrid.vue';
 import Results from './components/Results/Results.vue';
+import Images from './components/Images/Images.vue';
+
 
 Vue.use(VueRouter);
 
@@ -22,6 +24,7 @@ const router = new VueRouter({
     {path:"/events",component:Events},
     {path:"/aboutus",component:AboutUs},
     {path:"/results",component:Results},
+    {path:"/images",component:Images},
   ]
 })
 
