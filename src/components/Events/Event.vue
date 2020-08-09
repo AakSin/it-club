@@ -1,6 +1,6 @@
 <template>
-<div class="col-12 col-md-6 col-lg-3 p-4 p-md-2">
-   <div class="card text-center">
+<div class="col-12 col-md-6 col-lg-3 p-4 p-md-2" v-animate.repeat="'slide-right'">
+   <div class="card text-center" >
       <div v-if="readMore">
       <img class="card-img-top p-5 p-md-3" :src="event.image" alt="Card image cap" />
       <div class="card-body">
@@ -65,5 +65,19 @@ font-size:2rem;
   h1{
     border-bottom:0.5px rgba(255, 255, 255, 0.103) solid;
   }
+}
+.animate {
+  transition-duration: 0.5s;
+  transition-timing-function: ease-in;
+}
+ 
+.slide-right {
+  transform: translateX(-200px);
+  opacity:0;
+}
+ 
+.slide-right.animate-active {
+  transform: translateX(0px);
+  opacity:1;
 }
 </style>

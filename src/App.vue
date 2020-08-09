@@ -75,7 +75,7 @@ html,body {
     background:$bcolor;
     min-height: 100vh;
     overflow-x:hidden;
-    // @media #{$xs} { font-size: 10px; }
+    @media #{$xs} { font-size: 8px; }
     @media #{$sm} { font-size: 10px; }
     @media #{$md} { font-size: 16px; }
     @media #{$lg} { font-size: 18px; }

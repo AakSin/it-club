@@ -5,6 +5,10 @@ import './plugins/bootstrap-vue'
 import App from './App.vue';
 import VueRouter from 'vue-router';
 import store from './store/';
+import VueAnimate from 'vue-animate-scroll'
+ 
+Vue.use(VueAnimate)
+
 Vue.config.productionTip = false;
 
 // Importing Components

@@ -3,7 +3,7 @@
   <div class="px-5 text-center">
     
     <svg
-      id="Layer_1" class="px-5" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.8 82.86"
+      id="Layer_1" class="px-4 px-md-5" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.8 82.86"
     >
       <defs>
         
@@ -246,7 +246,20 @@ svg {
   @media #{$md}{
     font-size:20px;
   }
+  font-family:  Raleway;
 }
-
-
+div{
+  animation:fadeIn 1s forwards;
+  
+}
+@keyframes fadeIn{
+  from{
+    opacity:0;
+    transform:translateY(100px);
+  }
+  to{
+    opacity:1;
+    transform:translateY(0px);
+  }
+}
 </style>
