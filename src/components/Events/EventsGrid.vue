@@ -37,7 +37,7 @@ Topic:	Participants will have to solve an online python problem set in the allot
           desc: `
 No. of Participants-2<br>
 No. of teams – 1 <br>
-Class: Open
+Class: Open <br>
 Software to be used: Microsoft Visual Studio Code<br>
 Topic - Participants will have to solve an online python problem set in the allotted time.
           `,
