@@ -1,15 +1,9 @@
 <template>
   <div>
-    <!-- <nav class="d-flex my-3 justify-content-center align-items-center">
-    <router-link class="mx-4 px-2" to="/" @click="changeTheme()" exact>Home</router-link>
-    <router-link class="mx-4 px-2" to="/aboutus">About Us</router-link>
-    <router-link class="mx-4 px-2" to="/events">Events</router-link>
-    
-    </nav> -->
-    <div>
+
   <b-navbar class="mb-3 py-0 py-lg-4" toggleable="lg" type="dark" variant="info">
     
-
+       <!-- <b-navbar-brand href="#"><img src="../../public/static/imgs/logo-9.png" class="ml-2" height="50px" width="50px"></b-navbar-brand> -->
     <b-navbar-toggle class="ml-auto py-4 px-5" target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse  id="nav-collapse" is-nav>
@@ -24,7 +18,6 @@
     
     </b-collapse>
   </b-navbar>
-</div>
   </div>
   
 </template>

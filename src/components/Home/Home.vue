@@ -128,7 +128,7 @@
         />
       </g>
     </svg>
-    <h2 class="display-4 my-4">Lotus Valley International School Noida's IT Event</h2>
+    <h2 class="display-4 mt-4 mt-md-0 mb-4">Lotus Valley International School Noida's IT Event</h2>
     <b-button variant="primary py-2 px-5 mx-3 mb-5" href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Brochure</b-button>
     <b-button variant="success py-2 px-5 mx-3 mb-5" href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Invite</b-button>
   </div>
