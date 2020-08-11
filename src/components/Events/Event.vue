@@ -10,7 +10,7 @@
       </div>
       <div class="p-2" v-else>
         <button class="btn btn-danger m-2" @click="toggleRead()"><i class="fa fa-times"></i></button>
-        <p class="lead px-4">{{event.desc}}</p>
+        <p v-html="event.desc" class="lead px-4 "></p>
       </div>
     </div>
     </div>

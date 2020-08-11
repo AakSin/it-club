@@ -20,34 +20,73 @@ export default {
         {
           name: "Web Development",
           image: "./static/svgs/webd.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `No. of Participants: 2 <br>
+No. of teams: 1 <br>
+Class: Open <br>
+Software to be used: Microsoft Visual Studio Code <br>
+Topic:	Participants will have to solve an online python problem set in the allotted time.
+          `,
         },
         {
           name: "Coding",
           image: "./static/svgs/coding.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `
+No. of Participants-2<br>
+No. of teams – 1 <br>
+Class: Open
+Software to be used: Microsoft Visual Studio Code<br>
+Topic - Participants will have to solve an online python problem set in the allotted time.
+          `,
         },  {
           name: "Gaming",
           image: "./static/svgs/gaming.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `
+          No. of Participants - 2 for each game <br>
+          Class: Open <br>
+          Games: Rocket League, Brawlhalla
+          `,
         },
         {
           name: "Photoshop",
           image: "./static/svgs/photoshop.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `
+                    No. of Participants: 2 <br>
+No.of Teams: 1 <br>
+Class: IX-X <br>
+Software to be used: Adobe Photoshop <br>
+Topic: Poster for an esports(or sports) event/Music Album cover
+          `,
         },  {
           name: "Disquisition",
           image: "./static/svgs/dq.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `
+          
+          No. of teams per school - 2 <br>
+No. of participants per team – 1 <br>
+Class: Open <br>
+Topic: The ethics of digital surveillance and big data.`,
         },
         {
           name: "Minecraft",
           image: "./static/svgs/minecraft.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `
+          No. of Participants-2 <br>
+Number of teams - 1 <br>
+Class : VI-VIII <br>
+Software to be used: Minecraft Java Edition Version 1.16.1 <br>
+Topic - Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
+          
+          `,
         },  {
           name: "Presentation",
           image: "./static/svgs/presentation.svg",
-          desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a sapien a sapien vehicula luctus at non lacus. Morbi ultricies leo in ligula pulvinar, et gravida lectus molestie. Etiam porta arcu et felis egestas malesuada. Maecenas euismod pharetra arcu, et aliquet enim vestibulum ut. Sed facilisis felis ac est porta, pellentesque malesuada ligula mollis. Mauris porta massa non condimentum ",
+          desc: `
+          No. of Participants-2  <br>
+No. of teams-1 <br>
+Software to be used: Microsoft Sway <br>
+Topic - A technological innovation that would help people in the lockdown
+          
+          `,
         }
       ],
     };
