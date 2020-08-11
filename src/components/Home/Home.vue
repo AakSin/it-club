@@ -241,13 +241,7 @@ svg {
     transform:scale(0.9);
   }
 }
-.display-4 {
-  font-size: 3rem;
-  @media #{$lg}{
-    font-size:2.5rem;
-  }
-  font-family:'Raleway',sans-serif;
-}
+
 .btn{
   font-size:1.5rem;
   @media #{$lg}{

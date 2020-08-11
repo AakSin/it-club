@@ -162,4 +162,11 @@ html,body {
     text-decoration: none;
 
   }
+  .display-4 {
+  font-size: 3rem;
+  @media #{$lg}{
+    font-size:2.5rem;
+  }
+  font-family:'Raleway',sans-serif;
+}
 </style>
