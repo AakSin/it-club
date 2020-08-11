@@ -110,19 +110,7 @@ export default {
 .c_container {
   padding: 0 5vw;
 }
-h1,
-a {
-  font-size: 3rem;
-  @media #{$md} {
-    font-size: 1.5rem;
-  }
-}
-h2 {
-  font-size: 2.5rem;
-  @media #{$md} {
-    font-size: 1.25rem;
-  }
-}
+
 .lead{
    font-size: 2.2rem;
   @media #{$md} {
@@ -142,6 +130,19 @@ p {
   margin-bottom: 2vh;
   transition: 0.5s;
   cursor:pointer;
+  h1,
+a {
+  font-size: 3rem;
+  @media #{$md} {
+    font-size: 1.5rem;
+  }
+}
+h2 {
+  font-size: 2.5rem;
+  @media #{$md} {
+    font-size: 1.25rem;
+  }
+}
   
 }
 .card:hover {

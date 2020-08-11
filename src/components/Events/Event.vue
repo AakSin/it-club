@@ -2,7 +2,7 @@
 <div class="col-12 col-md-6 col-lg-3 p-4 p-md-2"  data-aos="fade-right" data-aos-duration="500" >
    <div class="card text-center" >
       <div v-if="readMore">
-      <img class="card-img-top p-5 p-md-3" :src="event.image" alt="Card image cap" />
+      <img class="card-img-top p-5 p-md-3 " :src="event.image" alt="Card image cap" />
       <div class="card-body">
         <h1 class="card-title py-2">{{event.name}}</h1>
         <button class="btn btn-primary" @click="toggleRead()">Read More</button>
@@ -65,6 +65,12 @@ font-size:2rem;
   h1{
     border-bottom:0.5px rgba(255, 255, 255, 0.103) solid;
   }
+ 
 }
+ img{
+    object-fit: contain;
+    width:100%;
+    height:250px;
+  }
 
 </style>
