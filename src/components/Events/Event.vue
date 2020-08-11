@@ -11,6 +11,7 @@
       <div class="p-2" v-else>
         <button class="btn btn-danger m-2" @click="toggleRead()"><i class="fa fa-times"></i></button>
         <p v-html="event.desc" class="lead px-4 "></p>
+        <p>Teacher Incharge <a :href="'tel:'+event.ttel" class="fa fa-phone"></a></p>
       </div>
     </div>
     </div>

@@ -151,13 +151,7 @@ h2 {
   transform: translate(1.05);
   transition: 0.5s;
 }
-.fa {
-  text-decoration: none;
-  margin: 2vw 2vw;
-  @media #{$md} {
-    margin: 0vw 1vw;
-  }
-}
+
 hr {
   background-color: rgba(255, 255, 255, 0.3);
 }

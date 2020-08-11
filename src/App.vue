@@ -150,4 +150,11 @@ html,body {
 .rter{
   min-height:90vh;
 }
+.fa {
+  text-decoration: none;
+  margin: 2vw 2vw;
+  @media #{$md} {
+    margin: 0vw 1vw;
+  }
+}
 </style>

@@ -26,6 +26,7 @@ Class: Open <br>
 Software to be used: Microsoft Visual Studio Code <br>
 Topic:	Participants will have to solve an online python problem set in the allotted time.
           `,
+          ttel: "9711724852",
         },
         {
           name: "Coding",
@@ -37,7 +38,9 @@ Class: Open
 Software to be used: Microsoft Visual Studio Code<br>
 Topic - Participants will have to solve an online python problem set in the allotted time.
           `,
-        },  {
+          ttel: "9818080696",
+        },
+        {
           name: "Gaming",
           image: "./static/svgs/gaming.svg",
           desc: `
@@ -45,6 +48,7 @@ Topic - Participants will have to solve an online python problem set in the allo
           Class: Open <br>
           Games: Rocket League, Brawlhalla
           `,
+          ttel: "9818080696",
         },
         {
           name: "Photoshop",
@@ -56,7 +60,9 @@ Class: IX-X <br>
 Software to be used: Adobe Photoshop <br>
 Topic: Poster for an esports(or sports) event/Music Album cover
           `,
-        },  {
+          ttel: "9999516311",
+        },
+        {
           name: "Disquisition",
           image: "./static/svgs/dq.svg",
           desc: `
@@ -65,7 +71,9 @@ Topic: Poster for an esports(or sports) event/Music Album cover
 No. of participants per team – 1 <br>
 Class: Open <br>
 Topic: The ethics of digital surveillance and big data.`,
+          ttel: "9891391086",
         },
+
         {
           name: "Minecraft",
           image: "./static/svgs/minecraft.svg",
@@ -75,9 +83,10 @@ Number of teams - 1 <br>
 Class : VI-VIII <br>
 Software to be used: Minecraft Java Edition Version 1.16.1 <br>
 Topic - Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
-          
           `,
-        },  {
+          ttel:"9818233557"
+        },
+        {
           name: "Presentation",
           image: "./static/svgs/presentation.svg",
           desc: `
@@ -87,14 +96,15 @@ Software to be used: Microsoft Sway <br>
 Topic - A technological innovation that would help people in the lockdown
           
           `,
-        }
+          ttel:"9711724852"
+        },
       ],
     };
   },
 };
 </script>
 <style lang="scss" scoped>
-.c_container{
+.c_container {
   padding: 0 5vw;
 }
 </style>
