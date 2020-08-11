@@ -27,6 +27,9 @@ Software to be used: Microsoft Visual Studio Code <br>
 Topic:	Participants will have to solve an online python problem set in the allotted time.
           `,
           ttel: "9711724852",
+          tname:"Ms. Neha Gupta",
+          stel:"7011465224",
+          sname:"Aakarsh Singh"
         },
         {
           name: "Coding",
@@ -38,7 +41,10 @@ Class: Open
 Software to be used: Microsoft Visual Studio Code<br>
 Topic - Participants will have to solve an online python problem set in the allotted time.
           `,
-          ttel: "9818080696",
+          ttel: "9891391086",
+          tname:"Mr. Anshuman Sharma",
+          stel:"8826490227",
+          sname:"Sayak Ray"
         },
         {
           name: "Gaming",
@@ -49,6 +55,9 @@ Topic - Participants will have to solve an online python problem set in the allo
           Games: Rocket League, Brawlhalla
           `,
           ttel: "9818080696",
+          tname:"Ms. Parul Kapil",
+          stel:"8800775011",
+          sname:"Aarav Mittal"
         },
         {
           name: "Photoshop",
@@ -61,6 +70,9 @@ Software to be used: Adobe Photoshop <br>
 Topic: Poster for an esports(or sports) event/Music Album cover
           `,
           ttel: "9999516311",
+          tname:"Ms. Shipra Kalra",
+          stel:"8076252192",
+          sname:"Hardit Singh"
         },
         {
           name: "Disquisition",
@@ -71,7 +83,10 @@ Topic: Poster for an esports(or sports) event/Music Album cover
 No. of participants per team – 1 <br>
 Class: Open <br>
 Topic: The ethics of digital surveillance and big data.`,
-          ttel: "9891391086",
+          ttel: "9818080696",
+          tname:"Ms. Parul Kapil",
+          sname:"Ishan Maheshwari",
+          stel:"8130314810"
         },
 
         {
@@ -84,7 +99,10 @@ Class : VI-VIII <br>
 Software to be used: Minecraft Java Edition Version 1.16.1 <br>
 Topic - Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
           `,
-          ttel:"9818233557"
+          ttel:"9818233557",
+          tname:"Ms. Srinidhi Chaudhary",
+          sname:"Yash Srivastava",
+          stel:"7710941630"
         },
         {
           name: "Presentation",
@@ -96,7 +114,10 @@ Software to be used: Microsoft Sway <br>
 Topic - A technological innovation that would help people in the lockdown
           
           `,
-          ttel:"9711724852"
+          ttel:"9711724852",
+          tname:"Ms. Ruchi Sharma",
+          sname:"Ishaan Khurana",
+          stel:"7678170515"
         },
       ],
     };

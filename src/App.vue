@@ -156,5 +156,10 @@ html,body {
   @media #{$md} {
     margin: 0vw 1vw;
   }
+ 
 }
+ a:hover{
+    text-decoration: none;
+
+  }
 </style>

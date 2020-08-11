@@ -1,5 +1,5 @@
 <template>
-<div class="col-12 col-md-6 col-lg-3 p-4 p-md-2"  data-aos="fade-right" data-aos-duration="500" >
+<div class="col-12 col-md-6 col-xl-3 p-4 p-md-2"  data-aos="fade-right" data-aos-duration="500" >
    <div class="card text-center" >
       <div v-if="readMore">
       <img class="card-img-top p-5 p-md-3 " :src="event.image" alt="Card image cap" />
@@ -8,10 +8,11 @@
         <button class="btn btn-primary" @click="toggleRead()">Read More</button>
       </div>
       </div>
-      <div class="p-2" v-else>
+      <div class="p-2" id="details" v-else>
         <button class="btn btn-danger m-2" @click="toggleRead()"><i class="fa fa-times"></i></button>
         <p v-html="event.desc" class="lead px-4 "></p>
-        <p>Teacher Incharge <a :href="'tel:'+event.ttel" class="fa fa-phone"></a></p>
+        <p>Teacher Incharge : {{event.tname}}<a :href="'tel:'+event.ttel" class="fa fa-phone"></a></p>
+        <p>Student Incharge : {{event.sname}}<a :href="'tel:'+event.stel" class="fa fa-phone"></a></p>
       </div>
     </div>
     </div>
@@ -30,6 +31,7 @@ export default {
     toggleRead(){
       this.readMore=!this.readMore
     }
+    
   }
 
 }
@@ -44,7 +46,7 @@ h1{
 .btn,p{
 font-size:2rem;
   @media #{$md}{
-    font-size:1rem;
+    font-size:0.9rem;
   }
 }
 .card{
@@ -53,7 +55,9 @@ font-size:2rem;
   margin-bottom: 2vh;
   transition:0.5s;
   border:0.5px rgba(255, 255, 255, 0.103) solid;
-   
+  .fa{
+    margin:0 10px;
+  }
 }
 .card:hover{
   box-shadow: 3px 3px 20px #dbdbdb2a;
