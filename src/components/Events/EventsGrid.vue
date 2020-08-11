@@ -38,7 +38,7 @@ Topic:	Participants will have to solve an online python problem set in the allot
 No. of Participants-2<br>
 No. of teams – 1 <br>
 Class: Open <br>
-Software to be used: Microsoft Visual Studio Code<br>
+Software to be used: IDLE 3.8<br>
 Topic - Participants will have to solve an online python problem set in the allotted time.
           `,
           ttel: "9891391086",

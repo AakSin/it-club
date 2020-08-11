@@ -129,9 +129,17 @@
       </g>
     </svg>
     <h2 class="display-4 mt-4 mt-md-0 mb-4">Lotus Valley International School Noida's IT Event</h2>
-    
-    <b-button variant="primary py-2 px-5 mx-3 mb-5" href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Brochure</b-button>
-    <b-button variant="success py-2 px-5 mx-3 mb-5" href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Invite</b-button>
+    <div class="d-flex justify-content-center align-items-center flex-wrap">
+    <b-button variant="info py-2 px-5  mx-2 mx-md-3 " href="#" target="_blank" pill>Trailer</b-button>
+    <b-button variant="primary py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Brochure</b-button>
+    <b-button variant="success py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Invite</b-button>
+    <a
+              href="https://www.instagram.com/lvis_turing/"
+              class="fa fa-instagram "
+              target="_blank"
+            ></a>
+            <a href="mailto:turing@lvisturing.tech" class="fa fa-envelope"></a>   
+            </div>
   </div>
 </template>
 <script>
@@ -262,5 +270,8 @@ div{
     opacity:1;
     transform:translateY(0px);
   }
+}
+.fa{
+  font-size:40px;
 }
 </style>
