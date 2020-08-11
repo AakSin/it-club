@@ -128,17 +128,15 @@
         />
       </g>
     </svg>
-    <h2 class="display-4 mt-4 mt-md-0 mb-4">Lotus Valley International School Noida's IT Event</h2>
-    <div class="d-flex justify-content-center align-items-center flex-wrap">
+    <h2 class="display-4 mt-4 mt-md-0 mb-4 mb-lg-0">Lotus Valley International School Noida's IT Event</h2>
+    <div class="d-flex justify-content-center align-items-center flex-wrap mb-5">
     <b-button variant="info py-2 px-5  mx-2 mx-md-3 " href="#" target="_blank" pill>Trailer</b-button>
     <b-button variant="primary py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Brochure</b-button>
     <b-button variant="success py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Artboard%201%403x.png" target="_blank" pill>Invite</b-button>
-    <a
-              href="https://www.instagram.com/lvis_turing/"
-              class="fa fa-instagram "
-              target="_blank"
-            ></a>
-            <a href="mailto:turing@lvisturing.tech" class="fa fa-envelope"></a>   
+    <div class="py-4">
+    <a href="https://www.instagram.com/lvis_turing/" class="fa fa-instagram py-2 px-4 " target="_blank"></a>
+            <a href="mailto:turing@lvisturing.tech" class="fa fa-envelope py-2 px-4 "></a>   
+            </div>
             </div>
   </div>
 </template>
@@ -251,9 +249,9 @@ svg {
   font-family:'Raleway',sans-serif;
 }
 .btn{
-  font-size:15px;
-  @media #{$md}{
-    font-size:20px;
+  font-size:1.5rem;
+  @media #{$lg}{
+    font-size:1rem;
   }
   font-family:  Raleway;
 }
@@ -271,7 +269,23 @@ div{
     transform:translateY(0px);
   }
 }
-.fa{
-  font-size:40px;
+a{
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.424);
 }
+.fa{
+  font-size:30px;
+}
+.fa-instagram{
+  color:white;
+   background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  border-radius:50rem;
+}
+.fa-envelope{
+  color:white;
+   background: black;
+  border-radius:50rem;
+  
+}
+
 </style>

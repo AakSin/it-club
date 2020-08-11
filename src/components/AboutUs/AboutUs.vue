@@ -146,9 +146,9 @@ h2 {
   
 }
 .card:hover {
-  box-shadow: 3px 3px 20px #dbdbdb2a;
+  box-shadow: 3px 10px 20px #0000007e;
   background-color: rgb(26, 26, 26);
-  transform: translate(1.05);
+  transform: scale(1.05);
   transition: 0.5s;
 }
 
