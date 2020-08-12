@@ -99,7 +99,7 @@ Class : VI-VIII <br>
 Software to be used: Minecraft Java Edition Version 1.16.1 <br>
 Topic - Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
           `,
-          ttel:"9818233557",
+          ttel:"9354590596",
           tname:"Ms. Srinidhi Chaudhary",
           sname:"Yash Srivastava",
           stel:"7710941630"
