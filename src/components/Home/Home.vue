@@ -131,8 +131,8 @@
     <h2 class="display-4 mt-4 mt-md-0 mb-4 mb-lg-0">Lotus Valley International School Noida's IT Event</h2>
     <div class="d-flex justify-content-center align-items-center flex-wrap mb-5">
     <b-button variant="info py-2 px-5  mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Trailer.mp4" target="_blank" pill>Trailer</b-button>
-    <b-button variant="primary py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Turing_Brochure%20%282%29.pdf" target="_blank" pill>Brochure</b-button>
-    <b-button variant="success py-2 px-5 mx-2 mx-md-3 " href="#" target="_blank" pill>Invite</b-button>
+    <b-button variant="primary py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Turing_Brochure.pdf" target="_blank" pill>Brochure</b-button>
+    <b-button variant="success py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Turing%20Cover%20Letter.pdf" target="_blank" pill>Invite</b-button>
     <div class="py-4">
     <a href="https://www.instagram.com/lvis_turing/" class="fa fa-instagram py-2 px-4 " target="_blank"></a>
     <a href="mailto:turing@lvisturing.tech" class="fa fa-envelope py-2 px-4 "></a>   
