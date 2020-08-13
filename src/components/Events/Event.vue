@@ -1,19 +1,22 @@
 <template>
-<div class="col-12 col-md-6 col-xl-3 p-4 p-md-2"  data-aos="fade-right" data-aos-duration="500" >
+<div class="col-12 col-md-6 col-xl-3 p-4 p-md-2"  data-aos="fade-right"  data-aos-easing="ease-out" data-aos-duration="500" >
    <div class="card text-center" >
-      <div v-if="readMore">
+     
+      <div v-if="readMore" key="brief">
       <img class="card-img-top p-5 p-md-3 " :src="event.image" alt="Card image cap" />
       <div class="card-body">
         <h1 class="card-title py-2">{{event.name}}</h1>
         <button class="btn btn-primary" @click="toggleRead()">Read More</button>
       </div>
       </div>
-      <div class="p-2" id="details" v-else>
+      <div class="p-2" id="details" v-else key="detail">
         <button class="btn btn-danger m-2" @click="toggleRead()"><i class="fa fa-times"></i></button>
         <p v-html="event.desc" class="lead px-4 "></p>
         <p>Teacher Incharge : {{event.tname}}<a :href="'tel:'+event.ttel" class="fa fa-phone"></a></p>
         <p>Student Incharge : {{event.sname}}<a :href="'tel:'+event.stel" class="fa fa-phone"></a></p>
+        <p v-if="event.sname2">Student Incharge : {{event.sname2}}<a :href="'tel:'+event.stel2" class="fa fa-phone"></a></p>
       </div>
+      
     </div>
     </div>
 </template>

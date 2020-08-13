@@ -17,7 +17,7 @@ See you at Turing!
     <h1 class="display-4 text-center">Founders</h1>
     <hr class="my-4" />
     <div class="row d-flex align-items-center">
-      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up">
+      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up" data-aos-easing="ease-out">
         <div class="card text-center">
           <img
             class="card-img-top "
@@ -37,7 +37,7 @@ See you at Turing!
           </div>
         </div>
       </div>
-      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up">
+      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up" data-aos-easing="ease-out">
         <div class="card text-center">
           <img
             class="card-img-top "
@@ -55,7 +55,7 @@ See you at Turing!
           </div>
         </div>
       </div>
-      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up">
+      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up" data-aos-easing="ease-out">
         <div class="card text-center">
           <img
             class="card-img-top "
@@ -76,7 +76,7 @@ See you at Turing!
           </div>
         </div>
       </div>
-      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up">
+      <div class="col-12 col-sm-6 col-lg-3 p-4 p-md-2" data-aos="flip-up" data-aos-easing="ease-out">
         <div class="card text-center">
           <img
             class="card-img-top "

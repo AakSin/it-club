@@ -4,7 +4,6 @@ import Vue from 'vue';
 import './plugins/bootstrap-vue'
 import App from './App.vue';
 import VueRouter from 'vue-router';
-import store from './store/';
 Vue.config.productionTip = false;
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -38,7 +37,7 @@ new Vue({
       mirror: true
     })
   },
-  store,
+  
   router,
   render: h => h(App),
 }).$mount('#app')

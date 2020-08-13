@@ -130,6 +130,7 @@
     </svg>
     <h2 class="display-4 mt-4 mt-md-0 mb-4 mb-lg-0">Lotus Valley International School Noida's IT Event</h2>
     <div class="d-flex justify-content-center align-items-center flex-wrap mb-5">
+    <b-button variant="warning py-2 px-5  mx-2 mx-md-3 " href="https://docs.google.com/forms/d/1JhtSWNbIGw8R4Pf1F43mIr1-BC9cvvOjtyGwqqxIyz0/viewform?edit_requested=true" target="_blank" pill>Register</b-button>
     <b-button variant="info py-2 px-5  mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Trailer.mp4" target="_blank" pill>Trailer</b-button>
     <b-button variant="primary py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Turing_Brochure.pdf" target="_blank" pill>Brochure</b-button>
     <b-button variant="success py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Turing%20Cover%20Letter.pdf" target="_blank" pill>Invite</b-button>
@@ -250,7 +251,7 @@ svg {
   font-family:  Raleway;
 }
 div{
-  animation:fadeIn 1s forwards;
+  animation:fadeIn 2s ease-out forwards;
   
 }
 @keyframes fadeIn{

@@ -57,7 +57,9 @@ Topic - Participants will have to solve an online python problem set in the allo
           ttel: "9818080696",
           tname:"Ms. Parul Kapil",
           stel:"8800775011",
-          sname:"Aarav Mittal"
+          sname:"Aarav Mittal",
+          stel2:"8595528619",
+          sname2:"Aaditya Gaur"
         },
         {
           name: "Photoshop",
@@ -86,7 +88,9 @@ Topic: The ethics of digital surveillance and big data.`,
           ttel: "9818080696",
           tname:"Ms. Parul Kapil",
           sname:"Ishan Maheshwari",
-          stel:"8130314810"
+          stel:"8130314810",
+          sname2:"Milika Nayak",
+          stel2:"9599574079"
         },
 
         {
@@ -116,8 +120,8 @@ Topic - A technological innovation that would help people in the lockdown
           `,
           ttel:"9711724852",
           tname:"Ms. Ruchi Sharma",
-          sname:"Ishaan Khurana",
-          stel:"7678170515"
+          sname:"Tanvi Sardana",
+          stel:"9560036940"
         },
       ],
     };

@@ -54,7 +54,7 @@
     </div>
     <Nav></Nav>
     
-    <div class="rter  d-flex flex-column justify-content-center"><router-view ></router-view></div>
+    <div class="rter d-flex flex-column justify-content-center"><router-view ></router-view></div>
   </div>
 </template>
 
