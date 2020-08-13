@@ -180,9 +180,9 @@
             <h1 class="card-title">Milika Nayak</h1>
             <h2>Disquisition Head</h2>
             <!-- <p>I created the brochure and I will be heading Disquisition</p> -->
-            <a href="mailto:ishan.arw@gmail.com" class="fa fa-envelope"></a>
+            <a href="mailto:milikanayak13@gmail.com" class="fa fa-envelope"></a>
             <a
-              href="https://www.instagram.com/ishan.pma"
+              href="https://instagram.com/milikanayak"
               class="fa fa-instagram"
               target="_blank"
             ></a>
@@ -205,8 +205,13 @@
             <h2>Presentation Head</h2>
             <!-- <p>I created the teaser and I will be heading coding.</p> -->
             <a
-              href="mailto:sr.official3210@gmail.com"
+              href="mailto:tanvi.sardana1@gmail.com"
               class="fa fa-envelope"
+            ></a>
+            <a
+              href="https://instagram.com/tanvisardana_"
+              class="fa fa-instagram"
+              target="_blank"
             ></a>
           </div>
         </div>
