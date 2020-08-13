@@ -29,7 +29,7 @@
         <div class="card text-center">
           <img
             class="card-img-top "
-            src="../../../public/static/imgs/turingaakarsh.jpg"
+            src="https://lvisturing.imfast.io/turingaakarsh.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -53,7 +53,7 @@
         <div class="card text-center">
           <img
             class="card-img-top "
-            src="../../../public/static/imgs/turingsayak.jpg"
+            src="https://lvisturing.imfast.io/turingsayak.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -75,7 +75,7 @@
         <div class="card text-center">
           <img
             class="card-img-top "
-            src="../../../public/static/imgs/turinghardit.jpg"
+            src="https://lvisturing.imfast.io/turinghardit.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -99,7 +99,7 @@
         <div class="card text-center">
           <img
             class="card-img-top "
-            src="../../../public/static/imgs/turingishan.jpg"
+            src="https://lvisturing.imfast.io/turingishan.jpg "
             alt="Card image cap"
           />
           <div class="card-body">
