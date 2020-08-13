@@ -13,8 +13,8 @@
         <button class="btn btn-danger m-2" @click="toggleRead()"><i class="fa fa-times"></i></button>
         <p v-html="event.desc" class="lead px-4 "></p>
         <p>Teacher Incharge : {{event.tname}}<a :href="'tel:'+event.ttel" class="fa fa-phone"></a></p>
-        <p>Student Incharge : {{event.sname}}<a :href="'tel:'+event.stel" class="fa fa-phone"></a></p>
-        <p v-if="event.sname2">Student Incharge : {{event.sname2}}<a :href="'tel:'+event.stel2" class="fa fa-phone"></a></p>
+        <!-- <p>Student Incharge : {{event.sname}}<a :href="'tel:'+event.stel" class="fa fa-phone"></a></p>
+        <p v-if="event.sname2">Student Incharge : {{event.sname2}}<a :href="'tel:'+event.stel2" class="fa fa-phone"></a></p> -->
       </div>
       
     </div>
