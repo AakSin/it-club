@@ -23,10 +23,10 @@ const router = new VueRouter({
   mode:'history',
   routes:[
     {path:"/",component:Home},
-    {path:"/events",component:Events},
-    {path:"/aboutus",component:AboutUs},
-    {path:"/results",component:Results},
-    {path:"/images",component:Images},
+    {path:"/events",name:Events,component:()=>import(/*webpackChunkName:"events" */"./components/Events/EventsGrid.vue")},
+    {path:"/aboutus",name:AboutUs,component:()=>import(/*webpackChunkName:"aboutus" */"./components/AboutUs/AboutUs.vue")},
+    {path:"/results",name:Results,component:()=>import(/*webpackChunkName:"results" */"./components/Results/Results.vue")},
+    {path:"/images",name:Images,component:()=>import(/*webpackChunkName:"images" */"./components/Images/Images.vue")},
   ]
 })
 
