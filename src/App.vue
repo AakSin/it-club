@@ -136,8 +136,8 @@ html,body {
     width: $size;
     animation-delay: -$i * 0.2s;
     transform: translate3d(
-      (random(90) * 1vw),
-      (random(90) * 1vh),
+      (random(95) * 1vw),
+      (random(95) * 1vh),
       (random(100) * 1px)
     );
     background: hsl(random(360), 80%, 60%);
