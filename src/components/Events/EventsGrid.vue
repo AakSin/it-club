@@ -24,7 +24,7 @@ export default {
 No. of teams: 1 <br>
 Class: Open <br>
 Software to be used: Microsoft Visual Studio Code <br>
-Topic:	Participants will have to solve an online python problem set in the allotted time.
+Topic: Participants will need to create a single page vertical scroll portfolio for Alan Turing as if he was a job seeker in our current times.
           `,
           ttel: "9711724852",
           tname:"Ms. Neha Gupta",
