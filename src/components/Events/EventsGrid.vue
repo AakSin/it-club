@@ -22,7 +22,7 @@ export default {
           image: "./static/svgs/webd.svg",
           desc: `No. of Participants: 2 <br>
 No. of teams: 1 <br>
-Class: Open <br>
+Class: IX-XII <br>
 Software to be used: Microsoft Visual Studio Code <br>
 Topic: Participants will need to create a single page vertical scroll portfolio for Alan Turing as if he was a job seeker in our current times.
           `,
@@ -37,7 +37,7 @@ Topic: Participants will need to create a single page vertical scroll portfolio 
           desc: `
 No. of Participants: 1<br>
 No. of teams: 1 <br>
-Class: Open <br>
+Class: XI-XII <br>
 Software to be used: IDLE 3.8<br>
 Topic - Participants will have to solve an online python problem set in the allotted time.
           `,
@@ -83,7 +83,7 @@ Topic: Poster for an esports(or sports) event/Music Album cover
           
           No. of teams per school: 2 <br>
 No. of participants per team: 1 <br>
-Class: Open <br>
+Class: XI-XII <br>
 Topic: The ethics of digital surveillance and big data.`,
           ttel: "9818080696",
           tname:"Ms. Parul Kapil",
@@ -113,6 +113,7 @@ Topic: Participants will need to build a base in the game with functioning Redst
           image: "./static/svgs/presentation.svg",
           desc: `
           No. of Participants: 2  <br>
+         Class: VI-VII  <br>
 No. of teams: 1 <br>
 Software to be used: Microsoft Sway <br>
 Topic: A technological innovation that would help people in the lockdown
