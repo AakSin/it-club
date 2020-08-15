@@ -35,8 +35,8 @@ Topic: Participants will need to create a single page vertical scroll portfolio 
           name: "Coding",
           image: "./static/svgs/coding.svg",
           desc: `
-No. of Participants- 1<br>
-No. of teams – 1 <br>
+No. of Participants: 1<br>
+No. of teams: 1 <br>
 Class: Open <br>
 Software to be used: IDLE 3.8<br>
 Topic - Participants will have to solve an online python problem set in the allotted time.
@@ -50,7 +50,7 @@ Topic - Participants will have to solve an online python problem set in the allo
           name: "Gaming",
           image: "./static/svgs/gaming.svg",
           desc: `
-          No. of Participants - 2 for each game <br>
+          No. of Participants: 2 for each game <br>
           Class: Open <br>
           Games: Rocket League, Brawlhalla
           `,
@@ -81,8 +81,8 @@ Topic: Poster for an esports(or sports) event/Music Album cover
           image: "./static/svgs/dq.svg",
           desc: `
           
-          No. of teams per school - 2 <br>
-No. of participants per team – 1 <br>
+          No. of teams per school: 2 <br>
+No. of participants per team: 1 <br>
 Class: Open <br>
 Topic: The ethics of digital surveillance and big data.`,
           ttel: "9818080696",
@@ -97,11 +97,11 @@ Topic: The ethics of digital surveillance and big data.`,
           name: "Minecraft",
           image: "./static/svgs/minecraft.svg",
           desc: `
-          No. of Participants-2 <br>
-Number of teams - 1 <br>
+          No. of Participants: 2 <br>
+Number of teams: 1 <br>
 Class : VI-VIII <br>
 Software to be used: Minecraft Java Edition Version 1.16.1 <br>
-Topic - Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
+Topic: Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
           `,
           ttel:"9354590596",
           tname:"Ms. Srinidhi Chaudhary",
@@ -112,10 +112,10 @@ Topic - Participants will need to build a base in the game with functioning Reds
           name: "Presentation",
           image: "./static/svgs/presentation.svg",
           desc: `
-          No. of Participants-2  <br>
-No. of teams-1 <br>
+          No. of Participants: 2  <br>
+No. of teams: 1 <br>
 Software to be used: Microsoft Sway <br>
-Topic - A technological innovation that would help people in the lockdown
+Topic: A technological innovation that would help people in the lockdown
           
           `,
           ttel:"9711724852",
