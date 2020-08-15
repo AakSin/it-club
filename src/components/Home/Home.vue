@@ -1,7 +1,6 @@
 <template>
 
   <div class="px-5 text-center">
-    
     <svg
       id="Layer_1" class="px-4 px-md-5" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.8 82.86"
     >
@@ -130,6 +129,7 @@
     </svg>
     <h2 class="display-4 mt-4 mt-md-0 mb-4 mb-lg-0">Lotus Valley International School Noida's IT Event</h2>
     <div class="d-flex justify-content-center align-items-center flex-wrap mb-5">
+    
     <b-button variant="warning py-2 px-5  mx-2 mx-md-3 " href="https://docs.google.com/forms/d/1JhtSWNbIGw8R4Pf1F43mIr1-BC9cvvOjtyGwqqxIyz0/viewform?edit_requested=true" target="_blank" pill>Register</b-button>
     <b-button variant="info py-2 px-5  mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Trailer.mp4" target="_blank" pill>Trailer</b-button>
     <b-button variant="primary py-2 px-5 mx-2 mx-md-3 " href="https://lvisturing.imfast.io/Turing_Brochure.pdf" target="_blank" pill>Brochure</b-button>
@@ -145,6 +145,7 @@
 export default {
   mounted() {
     this.typewriter();
+
   },
   name: "Home",
   data() {
@@ -152,6 +153,7 @@ export default {
       content: "",
       final: "T U R I N G",
       i: 0,
+      
     };
   },
   methods: {
@@ -167,8 +169,9 @@ export default {
         } //  ..  setTimeout()
       }, 500);
     },
-  },
-};
+     
+  }};
+
 </script>
 <style lang="scss" scoped>
 

@@ -62,9 +62,30 @@
 import Nav from './components/Nav.vue';
 
 export default {
+  mounted(){
+    this.makeToast();
+  },
   name: 'App',
   components: {
     Nav
+  },
+  data(){
+    return{
+      toastMessage:["8:20 PM 15th August- Rubrics updated. Please download brochure.",]
+    }
+  },
+  methods:{
+    makeToast() {
+        for (let i=0;i<this.toastMessage.length;i++){
+        this.$bvToast.toast(this.toastMessage[i], {
+          title: 'Event Updates',
+          appendToast: false,
+          variant:"info",
+          noAutoHide:true,
+          toastClass:"increase"
+        })
+        }
+  }
   }
 }
 </script>
@@ -168,5 +189,11 @@ html,body {
     font-size:2.5rem;
   }
   font-family:'Raleway',sans-serif;
+}
+.increase{
+  font-size:2rem;
+  @media #{$md}{
+    font-size:1rem;
+  }
 }
 </style>
