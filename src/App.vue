@@ -80,9 +80,10 @@ export default {
         this.$bvToast.toast(this.toastMessage[i], {
           title: 'Event Updates',
           appendToast: false,
+          toaster:"b-toaster-bottom-right",
           variant:"info",
           noAutoHide:true,
-          toastClass:"increase"
+          toastClass:"increase mb-3 mr-2"
         })
         }
   }
