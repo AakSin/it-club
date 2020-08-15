@@ -35,7 +35,7 @@ Topic: Participants will need to create a single page vertical scroll portfolio 
           name: "Coding",
           image: "./static/svgs/coding.svg",
           desc: `
-No. of Participants-2<br>
+No. of Participants- 1<br>
 No. of teams – 1 <br>
 Class: Open <br>
 Software to be used: IDLE 3.8<br>
