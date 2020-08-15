@@ -12,7 +12,7 @@
     <router-link class="mx-4 mb-3 mb-lg-0 px-2" to="/aboutus">About Us</router-link>
     <router-link class="mx-4 mb-3 mb-lg-0 px-2" to="/events">Events</router-link>
     <router-link class="mx-4 mb-3 mb-lg-0 px-2" to="/results">Results</router-link>
-    <router-link class="mx-4 mb-3 mb-lg-0 px-2" to="/images">Images</router-link>
+    <router-link class="mx-4 mb-3 mb-lg-0 px-2" to="/highlights">Highlights</router-link>
       </div>
 
     
