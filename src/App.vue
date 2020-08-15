@@ -83,7 +83,7 @@ export default {
           toaster:"b-toaster-bottom-right",
           variant:"info",
           noAutoHide:true,
-          toastClass:"increase mb-3 mr-2"
+          toastClass:"increase mb-3 mr-3"
         })
         }
   }
@@ -196,5 +196,6 @@ html,body {
   @media #{$md}{
     font-size:1rem;
   }
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.424);
 }
 </style>
