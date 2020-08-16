@@ -37,6 +37,7 @@
             <h2>Web Development Head</h2>
             <!-- <p>I created this website and I will be heading Web Development.</p> -->
             <a href="mailto:aakarsh@lvisturing.tech" class="fa fa-envelope"></a>
+            <a href="https://github.com/AakSin" class="fa fa-github" target="_blank"></a>
             <a
               href="https://www.instagram.com/aaksins/"
               class="fa fa-instagram"
@@ -83,6 +84,7 @@
             <h2>Photoshop Head</h2>
             <!-- <p>I created the brochure and I will be heading Photoshop</p> -->
             <a href="mailto:hardits925@gmail.com" class="fa fa-envelope"></a>
+            <a href="https://github.com/hardy1273" class="fa fa-github" target="_blank"></a>
             <a
               href="https://www.instagram.com/hardy_1273/"
               class="fa fa-instagram"
@@ -156,7 +158,7 @@
             <h1 class="card-title">Aarav Mittal</h1>
             <h2>Gaming Head</h2>
             <!-- <p>I created the brochure and I will be heading Disquisition</p> -->
-            <a href="https://twitter.com/aarav2703" class="fa fa-twitter"></a>
+            <a href="https://twitter.com/aarav2703" class="fa fa-twitter" target="_blank"></a>
             <a
               href="https://www.instagram.com/adrak_mittal/"
               class="fa fa-instagram"
@@ -276,6 +278,7 @@ p {
   h1,
   a {
     font-size: 3rem;
+    
     @media #{$md} {
       font-size: 1.5rem;
     }

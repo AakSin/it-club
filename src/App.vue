@@ -55,11 +55,14 @@
     <Nav></Nav>
     
     <div class="rter d-flex flex-column justify-content-center"><router-view ></router-view></div>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
 import Nav from './components/Nav.vue';
+import Footer from './components/Footer.vue';
+
 
 export default {
   mounted(){
@@ -67,7 +70,7 @@ export default {
   },
   name: 'App',
   components: {
-    Nav
+    Nav,Footer
   },
   data(){
     return{
@@ -198,4 +201,5 @@ html,body {
   }
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.424);
 }
+
 </style>
