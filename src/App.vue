@@ -74,7 +74,7 @@ export default {
   },
   data(){
     return{
-      toastMessage:["8:20 PM 15th August- Rubrics updated. Please download brochure.",]
+      toastMessage:["8:20 PM 15th August- Rubrics updated. Please download brochure.","8:00 PM 17th August- Coding and Gaming will be held on 31st August from 2:30 PM to 4:30 PM."]
     }
   },
   methods:{
@@ -209,13 +209,13 @@ html,body {
 }
 @keyframes gradient {
 	0% {
-		background-position: 0% 50%;
+		background-position: 0% 0%;
 	}
 	50% {
-		background-position: 100% 50%;
+		background-position: 100% 100%;
 	}
 	100% {
-		background-position: 0% 50%;
+		background-position: 0% 0%;
 	}
 }
 
