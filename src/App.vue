@@ -97,7 +97,13 @@ export default {
 <style lang="scss">
 
 html,body {
+    
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
     background:$bcolor;
+    background-image: radial-gradient(circle at 100% 100%, #38406b, #1e2135 81%, #1c1e2f);
+    background-size:150% 150%;
+    animation: gradient 10s ease infinite;
     min-height: 100vh;
     overflow-x:hidden;
     @media #{$xs} { font-size: 8px; }
@@ -169,7 +175,7 @@ html,body {
   }
 }
 #app{
-  background:$bcolor;
+  
   color:$tcolor;
 }
 .rter{
@@ -200,6 +206,17 @@ html,body {
     font-size:1rem;
   }
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.424);
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 </style>
