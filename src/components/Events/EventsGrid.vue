@@ -81,7 +81,7 @@ Topic: Poster for an esports(or sports) event/Music Album cover
           image: "./static/svgs/dq.svg",
           desc: `
           
-          No. of teams per school: 2 <br>
+          No. of teams per school: 1 <br>
 No. of participants per team: 1 <br>
 Class: XI-XII <br>
 Topic: The ethics of digital surveillance and big data.`,
