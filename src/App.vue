@@ -74,7 +74,7 @@ export default {
   },
   data(){
     return{
-      toastMessage:["8:20 PM 15th August- Rubrics updated. Please download brochure.","8:00 PM 17th August- Coding and Gaming will be held on 31st August from 2:30 PM to 4:30 PM."]
+      toastMessage:["8:00 PM 17th August- Coding and Gaming will be held on 31st August from 2:30 PM to 4:30 PM.","4 PM 20th August- Rubrics updated. Please download brochure.","4 PM 20th August- Link for Minecraft world is available now."]
     }
   },
   methods:{

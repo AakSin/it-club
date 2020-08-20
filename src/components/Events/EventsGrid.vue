@@ -101,7 +101,8 @@ Topic: The ethics of digital surveillance and big data.`,
 Number of teams: 1 <br>
 Class : VI-VIII <br>
 Software to be used: Minecraft Java Edition Version 1.16.1 <br>
-Topic: Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode.
+Topic: Participants will need to build a base in the game with functioning Redstone contraptions, the building style, and the type of Redstone contraption is up to the participant. The build must be in Creative mode. <br>
+<a href="https://drive.google.com/u/1/uc?id=1HIypRu5HGERBT_H4nvqyi_hbsV1_HZVr&export=download" target="_blank">Link for Minecraft World.</a>
           `,
           ttel:"9354590596",
           tname:"Ms. Srinidhi Chaudhary",
