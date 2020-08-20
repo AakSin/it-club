@@ -97,7 +97,7 @@ Topic: The ethics of digital surveillance and big data.`,
           name: "Minecraft",
           image: "./static/svgs/minecraft.svg",
           desc: `
-          No. of Participants: 2 <br>
+          No. of Participants: 1 <br>
 Number of teams: 1 <br>
 Class : VI-VIII <br>
 Software to be used: Minecraft Java Edition Version 1.16.1 <br>
