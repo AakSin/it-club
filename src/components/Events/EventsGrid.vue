@@ -114,7 +114,7 @@ Topic: Participants will need to build a base in the game with functioning Redst
           image: "./static/svgs/presentation.svg",
           desc: `
           No. of Participants: 2  <br>
-         Class: VI-VII  <br>
+         Class: VI-VIII  <br>
 No. of teams: 1 <br>
 Software to be used: Microsoft Sway <br>
 Topic: A technological innovation that would help people in the lockdown
