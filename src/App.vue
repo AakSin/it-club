@@ -75,7 +75,7 @@ export default {
   data(){
     return{
       toastMessage:["8:00 PM 17th August- Coding and Gaming will be held on 31st August from 2:30 PM to 4:30 PM.","4 PM 20th August- Rubrics in brochure updated. Link for Minecraft world is available now.",
-      "8:10 PM 20th August- The last date for registration has been extended to 22.08.2020. The last date of submission of entries remains the same."]
+      "12:20 PM 25th August- The email ID for Disquisition (Group Disc.) is caesarfx.cipher@gmail.com"]
     }
   },
   methods:{
