@@ -75,7 +75,8 @@ export default {
   data(){
     return{
       toastMessage:["8:00 PM 17th August- Coding and Gaming will be held on 31st August from 2:30 PM to 4:30 PM.",
-      "12:20 PM 25th August- The email ID for Disquisition (Group Disc.) is caesarfx.cipher@gmail.com. Minecraft link has been provided on the website.","8:16 PM 25th August - A Discord server invite will be sent on the 28th to the students and teachers on mail. Students are requested to join the servers as soon as they can. Further instruction will be provided there."]
+      "12:20 PM 25th August- The email ID for Disquisition (Group Disc.) is caesarfx.cipher@gmail.com. Minecraft link has been provided on the website.",
+      "8:30 PM 28th August - The link to the Discord server for gaming and for the Hackerrank contest for coding have been shared with the teachers on mail. The teachers may forward this to the students particiapting in these events."]
     }
   },
   methods:{
