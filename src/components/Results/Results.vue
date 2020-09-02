@@ -14,7 +14,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) GD Goenka, Noida</h1>
-              <h2>Akshit Kumar, Aalia Praveen</h2>
+              <!-- <h2>Akshit Kumar, Aalia Praveen</h2>-->
             </div>
           </div>
         </div>
@@ -27,7 +27,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Tagore International School, Vasant Vihar</h1>
-              <h2>Sakina Nadeem, Navya</h2>
+              <!-- <h2>Sakina Nadeem, Navya</h2>-->
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Delhi Public School, Gurugram</h1>
-              <h2>Indrajith Gopinathan, Aditya Vikram</h2>
+              <!-- <h2>Indrajith Gopinathan, Aditya Vikram</h2>-->
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Mayoor School, Noida</h1>
-              <h2>Shreyas Tyagi</h2>
+              <!-- <h2>Shreyas Tyagi</h2>-->
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Manav Rachna International School</h1>
-              <h2>Purujit Kulshreshtha</h2>
+              <!-- <h2>Purujit Kulshreshtha</h2>-->
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Delhi Public School, Gurugram</h1>
-              <h2>Aryan Guptaa</h2>
+              <!-- <h2>Aryan Guptaa</h2>-->
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Tagore International School, Vasant Vihar</h1>
-              <h2>Maalav, Parth Puri</h2>
+              <!-- <h2>Maalav, Parth Puri</h2>-->
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Cambridge School, Noida</h1>
-              <h2>Yash Kumar, Harsh Walia</h2>
+              <!-- <h2>Yash Kumar, Harsh Walia</h2>-->
             </div>
           </div>
         </div>
@@ -126,7 +126,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Delhi Public School, Gurugram</h1>
-              <h2>Ruthvic Kudligi, Aritro Sengupta</h2>
+              <!-- <h2>Ruthvic Kudligi, Aritro Sengupta</h2>-->
             </div>
           </div>
       
@@ -141,7 +141,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Indraprashta World School</h1>
-              <h2>Aaryan Manchanda, Pratham Arora</h2>
+              <!-- <h2>Aaryan Manchanda, Pratham Arora</h2>-->
             </div>
           </div>
         </div>
@@ -158,7 +158,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Tagore International School, East of Kailash</h1>
-              <h2>Baneet Pukhrambam</h2>
+              <!-- <h2>Baneet Pukhrambam</h2>-->
             </div>
           </div>
         </div>
@@ -171,7 +171,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Mayoor School, Noida</h1>
-              <h2>Shubhan Rathour</h2>
+              <!-- <h2>Shubhan Rathour</h2>-->
             </div>
           </div>
         </div>
@@ -184,7 +184,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Indraprastha World School</h1>
-              <h2>Sanvi Tully</h2>
+              <!-- <h2>Sanvi Tully</h2>-->
             </div>
           </div>
         </div>
@@ -201,7 +201,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Tagore International School, Vasant Vihar</h1>
-              <h2>Ujjawal Shukla, Ronit Das</h2>
+              <!-- <h2>Ujjawal Shukla, Ronit Das</h2>-->
             </div>
           </div>
         </div>
@@ -214,7 +214,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Delhi Public School, Noida</h1>
-              <h2>Ravit Gulati, Siddharth Ingle</h2>
+              <!-- <h2>Ravit Gulati, Siddharth Ingle</h2>-->
             </div>
           </div>
         </div>
@@ -227,7 +227,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Mayoor School, Noida</h1>
-              <h2>Arjun Pandey, Saraansh Sharma</h2>
+              <!-- <h2>Arjun Pandey, Saraansh Sharma</h2>-->
             </div>
           </div>
         </div>
@@ -244,7 +244,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Mayoor School, Noida</h1>
-              <h2>Arjun Pandey, Saraansh Sharma</h2>
+              <!-- <h2>Arjun Pandey, Saraansh Sharma</h2>-->
             </div>
           </div>
         </div>
@@ -257,7 +257,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Delhi Public School, Noida</h1>
-              <h2>Advik Teotea, Saksham Sharma</h2>
+              <!-- <h2>Advik Teotea, Saksham Sharma</h2>-->
             </div>
           </div>
         </div>
@@ -270,7 +270,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Delhi Public School, Gurugram</h1>
-              <h2>Vyom Agrawal, Nishant Arora</h2>
+              <!-- <h2>Vyom Agrawal, Nishant Arora</h2>-->
             </div>
           </div>
         </div>
@@ -287,7 +287,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Amity International School, Noida</h1>
-              <h2>Amogh Garg</h2>
+              <!-- <h2>Amogh Garg</h2>-->
             </div>
           </div>
         </div>
@@ -300,7 +300,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Suncity School-37D, Gurugram</h1>
-              <h2>Anushka Singh</h2>
+              <!-- <h2>Anushka Singh</h2>-->
             </div>
           </div>
         </div>
@@ -313,7 +313,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Tagore International School, East of Kailash</h1>
-              <h2>Aairah Usman</h2>
+              <!-- <h2>Aairah Usman</h2>-->
             </div>
           </div>
         </div>
@@ -330,7 +330,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">1st) Suncity School-37D, Gurugram</h1>
-              <h2>Vaibhav Venkatesh</h2>
+              <!-- <h2>Vaibhav Venkatesh</h2>-->
             </div>
           </div>
         </div>
@@ -343,7 +343,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Indraprastha World School, Noida</h1>
-              <h2>Medhansh Malhotra</h2>
+              <!-- <h2>Medhansh Malhotra</h2>-->
             </div>
           </div>
         </div>
@@ -356,7 +356,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">2nd) Father Agnel School, Noida</h1>
-              <h2>Arshmeet Singh Anand</h2>
+              <!-- <h2>Arshmeet Singh Anand</h2>-->
             </div>
           </div>
         </div>
@@ -369,7 +369,7 @@
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
               <h1 class="card-title">3rd) Tagore International School, East of Kailash</h1>
-              <h2>Tushar Gupta</h2>
+              <!-- <h2>Tushar Gupta</h2>-->
             </div>
           </div>
         </div>
