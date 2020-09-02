@@ -342,7 +342,7 @@
           <div class="card text-center">
             <!-- <img class="card-img-top " src="#" alt="Relevant image" /> -->
             <div class="card-body">
-              <h1 class="card-title">2nd) Indraprastha World School, Noida</h1>
+              <h1 class="card-title">2nd) Indraprastha World School, Delhi</h1>
               <!-- <h2>Medhansh Malhotra</h2>-->
             </div>
           </div>
