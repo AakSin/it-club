@@ -10,13 +10,13 @@
   "dependencies": {
     "all": "0.0.0",
     "aos": "^2.3.4",
-    "bootstrap-vue": "^2.1.0",
+    "bootstrap-vue": "^2.17.3",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
-    "vue-router": "^3.4.0"
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.3"
   },
   "devDependencies": {
-    "@babel/polyfill": "^7.7.0",
+    "@babel/polyfill": "^7.11.5",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
@@ -28,10 +28,10 @@
     "node-sass": "^4.14.1",
     "popper.js": "^1.16.0",
     "portal-vue": "^2.1.6",
-    "sass": "^1.19.0",
-    "sass-loader": "^8.0.0",
+    "sass": "^1.26.11",
+    "sass-loader": "^8.0.2",
     "vue-cli-plugin-bootstrap-vue": "~0.6.0",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {
     "root": true,
